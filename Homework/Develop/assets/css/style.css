@@ -15,25 +15,29 @@ header {
 header, h1 {
     display: inline-block;
     font-size: 48px;
-    text-align: left;
+}
+
+#title {
+    padding-top: 15px;
+    margin-right: 130px;
+    left: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    display: inline-block;
 }
 
 .seo {
-    color: #d9dcd6;
-}
-
-nav {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    color: #b0b3ad;
 }
 
 nav, ul {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
+    padding-top: 15px;
+    margin-right: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
 }
 
 nav, ul, li {
